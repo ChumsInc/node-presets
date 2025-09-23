@@ -6,7 +6,6 @@ import cookieParser from 'cookie-parser';
 import bodyParser from 'body-parser';
 import http from 'node:http';
 import appRouter from "./src/index.js";
-import {logPath} from "./src/debug-logger.js";
 import {notFoundHandler} from "./src/error-handler.js";
 
 const debug = Debug('chums:api');
