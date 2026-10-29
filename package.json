@@ -20,20 +20,20 @@
     "version": "auto-changelog -p && git add CHANGELOG.md"
   },
   "devDependencies": {
-    "@eslint/js": "^9.39.4",
+    "@eslint/js": "^10.0.1",
     "@tsconfig/node22": "^22.0.2",
     "@types/cookie-parser": "^1.4.9",
     "@types/debug": "^4.1.12",
     "@types/express": "^5.0.3",
-    "@types/node": "^24.5.2",
+    "@types/node": "^26.6.5",
     "auto-changelog": "^2.5.0",
     "chums-types": "github:ChumsInc/chums-types",
-    "eslint": "^9.39.4",
+    "eslint": "^10.13.0",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^17.4.0",
     "nodemon": "^3.1.10",
-    "typescript": "^5.9.2",
+    "typescript": "^6.0.3",
     "typescript-eslint": "^8.44.1"
   },
   "dependencies": {
@@ -41,7 +41,7 @@
     "chums-local-modules": "github:ChumsInc/chums-local-modules",
     "cookie-parser": "^1.4.7",
     "debug": "^4.4.3",
-    "dotenv": "^17.2.2",
+    "dotenv": "^18.0.9",
     "express": "^5.1.0",
     "helmet": "^8.1.0"
   },
